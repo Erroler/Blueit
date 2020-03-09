@@ -2,10 +2,9 @@
 
 **Blueit is a reddit clone** where users can share stories and post comments. Users are able to upvote or downvote stories and comments, create channels, edit their profile, search and sort stories. 
 
-The website is responsive and secure (against XSS, CSRF and SQL injection; uses password hashing).
+The website is responsive and secure (against XSS, CSRF and SQL injections).
 
 This project was developed as a course assignment of the [Web Languages and Technologies subject](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=420005) at [Faculdade de Engenharia da Universidade do Porto](https://sigarra.up.pt/feup/en).
-
 
 *Project finished on April 2019.*
 
